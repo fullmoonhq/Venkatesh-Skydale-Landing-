@@ -1,4 +1,4 @@
-# Venkatesh Skydale Landing
+# Venkatesh Skydale Landing Page
 
 Welcome to the **Venkatesh Skydale Landing** repository! This project contains the landing page for the Venkatesh Skydale property, designed to provide an engaging, informative, and visually appealing experience for prospective customers.
 
